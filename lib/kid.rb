@@ -1,4 +1,3 @@
-require_relative './dance_module.rb'
 require_relative './fancy-dance.rb'
 
 class Kid
